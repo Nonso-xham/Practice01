@@ -1,0 +1,117 @@
+body{
+    background-color: rgb(8, 0, 0);
+    font-family: times new roman;;
+    width: auto;
+    font-size: medium;
+}
+#main-header{
+    border: 4px double wheat;
+    background-color: black;
+    text-align:center;
+    padding: 15px;
+}
+.h1{
+    border: 2px dotted darkgoldenrod;
+    border-radius: 10px 10px 10px 10px;
+    background-color: rgb(31, 54, 54);
+}
+.article{
+    text-transform: capitalize;
+    text-align: center;
+    font-size: x-large;
+}
+small{
+    font-style: oblique;
+    text-transform: capitalize;
+}
+.blogt{
+    border-bottom: 4px double darkgoldenrod;
+}
+h1,h2,h3{
+    color: rgb(197, 31, 31);
+    text-shadow: 2px 2px 2px blueviolet;
+    font-size: xx-large;
+    padding: 10px;
+}
+p{
+    text-indent: 20px;
+    color: rgb(248, 248, 250);
+    line-height: 130%;
+    padding: 10px;
+}
+div{
+    color: cyan; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+ul{
+    list-style: disc;
+    font-size: medium;
+    color: white;
+}
+footer{
+    color: rgb(122, 252, 62);
+    font-size: medium;
+}
+tr.row th{
+    letter-spacing: 0.15em;
+    line-height: 50px;
+    empty-cells: hide;
+    border-bottom: 1px rgb(84, 120, 160) solid;
+    border-top: 1px rgb(84, 120, 160) solid;
+    border-inline: 1px rgb(84, 120, 160) solid;
+}
+tr.row td{
+    letter-spacing: 0.15em;
+    line-height: 20px;
+    border-bottom: 1px rgb(84, 120, 160) solid;
+    border-top: 1px rgb(84, 120, 160) solid;
+    border-inline: 1px rgb(84, 120, 160) solid;
+}
+#href{
+    width: 100%;
+    
+}
+table{
+    border-spacing: 0px;
+}
+td{
+    padding: 5px 30px 5px 10px;
+    text-align: center;
+}
+.title{
+    float: left;
+    width: 100px;
+}
+.submit{
+    color: rgb(89, 64, 231);
+    background-color: rgb(14, 19, 19);
+    width: auto;
+    text-shadow: 2px 2px 2px rgb(124, 27, 23);
+    margin-left: 100px;
+}
+fieldset{
+    padding: 5px;
+    width: 30%;
+    background-image: url(img/kl.jpg);
+}
+legend{
+    text-align: center;
+    color: cyan;
+}
+.l{
+    font-size: larger;
+    list-style: katakana;
+}
+label{
+    float: left;
+    width: 100px;
+}
+.se{
+    background-color: #e4e932;
+    color: rgb(10, 48, 5);
+    width: 90%;
+}
+footer{
+    text-align: center;
+    font-family: monospace;
+}
